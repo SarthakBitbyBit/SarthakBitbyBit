@@ -4,6 +4,7 @@
 🎓 CS Undergrad @ SIT Pune  
 ## 📫 Connect With Me
 - 📧 Email: sarthakisworkingonline@gmail.com
+- LinkedIn: www.linkedin.com/in/SarthakBitbyBit01
 
 ### 🛠️ Tech Stack
 - Languages: C++ (Learning)
