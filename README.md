@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sarthakbitbybit" alt="sarthakbitbybit" /></a> </p>
 
-- 🌱 I’m currently learning **Arduino, Raspberry, C++**
+- 🌱 I’m currently learning **Docker, Redis, C++**
 
 - 📫 How to reach me **sarthakisworkingonline@gmail.com**
 
